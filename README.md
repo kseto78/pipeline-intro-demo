@@ -1,1 +1,1 @@
-# simple-java-maven-app
+# Labs CloudbeesUniversity simple-java-maven-app
